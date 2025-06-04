@@ -1,0 +1,5 @@
+name: /home/manpreet/Desktop/numpy
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+prefix: /home/manpreet/Desktop/numpy
